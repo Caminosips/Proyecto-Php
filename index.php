@@ -6,7 +6,7 @@
 </h1>
 
     <input type="number"
-    placeholder="Ingrese su numero de documento">
+    placeholder="Ingrese su numero de documento p">
     <button>Listo</button>
 
 <style>
